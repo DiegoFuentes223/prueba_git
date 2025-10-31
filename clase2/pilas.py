@@ -56,4 +56,4 @@ if __name__ == "__main__":
     pila = Pila()
     
     # Agregar elementos
-    pila.push("Manzana")
+    pila.push("Manzana actualizada para commit")
